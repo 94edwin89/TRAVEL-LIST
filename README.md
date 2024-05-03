@@ -26,4 +26,4 @@ Make your changes and commit them (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-name).
 Create a new Pull Request.
 Credits
-This project was created by [Your Name]. Special thanks to [Person/Resource] for [specific contribution or inspiration].
+This project was created by [Edwin Jude]. Special thanks to [Jonasschmedtman].
